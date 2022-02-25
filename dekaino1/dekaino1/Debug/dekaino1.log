@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\user\Documents\プログラミング技法１\dekaino1\dekaino1\Source.cpp(27): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+C:\Users\user\Documents\プログラミング技法１\dekaino1\dekaino1\Source.cpp(76): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\user\Documents\プログラミング技法１\dekaino1\dekaino1\Source.cpp(76): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\user\Documents\プログラミング技法１\dekaino1\dekaino1\Source.cpp(126): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\user\Documents\プログラミング技法１\dekaino1\dekaino1\Source.cpp(126): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  dekaino1.vcxproj -> C:\Users\user\Documents\プログラミング技法１\dekaino1\Debug\dekaino1.exe
